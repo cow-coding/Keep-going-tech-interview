@@ -41,5 +41,5 @@ CS 면접의 부담감을 느끼시는 분들을 뭐라하는 것이 아닙니�
 
 ## Tech Interview
 
-- [Computer Science Interview]()
-- [AI Interview]()
+- [Computer Science Interview](https://github.com/cow-coding/Keep-going-tech-interview/tree/main/Computer%20Science)
+- [AI Interview](https://github.com/cow-coding/Keep-going-tech-interview/tree/main/AI)
