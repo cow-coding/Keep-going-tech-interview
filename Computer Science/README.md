@@ -2,12 +2,12 @@
 
 ## 목록
 
-- [Operating System (운영체제)]()
-- [Database (데이터베이스)]()
-- [Network (네트워크)]()
-- [DataStructure (자료구조)]()
-- [Algorithm (알고리즘)]()
-- [Software Engineering (소프트웨어 공학)]()
+- [Operating System (운영체제)](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/OS.md)
+- [Database (데이터베이스)](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/DB.md)
+- [Network (네트워크)](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Network.md)
+- [DataStructure (자료구조)](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/DS.md)
+- [Algorithm (알고리즘)](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Algorithm.md)
+- [Software Engineering (소프트웨어 공학)](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/SE.md)
 
 ## 레퍼런스
 
