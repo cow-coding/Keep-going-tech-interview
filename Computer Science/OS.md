@@ -3,3 +3,33 @@
 - [운영체제란 무엇인가요?](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Operating%20System/1.%20What%20is%20OS.md)
 - [프로세스와 쓰레드의 차이를 알려주세요.](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Operating%20System/2.%20Process%20VS%20Thread.md)
 - [멀티 프로세스 대신 멀티 쓰레드를 사용하는 이유를 설명해주세요.](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Operating%20System/3.%20Multi%20thread.md)
+- 사용자 수준 스레드와 커널 수준 스레드의 차이를 설명해주세요.
+- 프로세스 주소공간이란 무엇인가요?
+- Thread-safe에 대해 설명해주세요. (hint: critical section)
+- 인터럽트(Interrupt)에 대해 설명하세요.
+- 시스템콜(System call)이란 무엇인가요?
+- 파일 시스템이란 무엇인가요?
+- 캐시의 지역성에 대해 설명해주세요.
+    - locality
+    - cahing line
+- 동기화 객체의 종류에 대해 얘기해주세요.
+- 뮤텍스와 세마포어의 차이를 설명해주세요.
+- 스케줄러가 무엇이고, 단기/중기/장기로 나누는 기준에 대해 설명해주세요.
+- CPU 스케줄러인 FCFS, SJF, SRTF, Priority Scheduling, RR에 대해 간략히 설명해주세요.
+- 동기와 비동기의 차이를 설명해주세요.
+- 메모리(Memory)란 무엇인가요?
+- 메모리 관리 전략에는 무엇이 있는지 간략히 설명해주세요.
+- 페이징 & 세그멘테이션(PDF)에 대해 설명해주세요.
+- 페이지 교체 알고리즘의 종류에는 무엇이 있나요?
+- 페이지 폴트란 무엇인가요?
+- 가상 메모리에 대해 설명해주세요.
+    - 배경
+    - 가상메모리 하는 일
+    - Demanding Paging(요구 페이징)
+- 교착상태(데드락, Deadlock)의 개념과 조건을 설명해주세요.
+- Race Condition이란 무엇인가요?
+- 외부 단편화와 내부 단편화에 대해 설명해주세요.
+- PCB에 대해 설명해주세요.
+- Context Switching이 무엇인지 설명하고 과정을 나열해주세요.
+- Swapping에 대해 설명해주세요.
+- IPC(Inter Process Communication)란 무엇인가요?

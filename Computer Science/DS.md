@@ -1,3 +1,34 @@
 # CS Interview - DataStructure
 
 - [Array와 Linked List의 특징과 차이점](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/DataStructure/1.%20Array%20VS%20Linked%20List.md)
+- hash table(해시함수, 충돌해결(오픈어드레싱, 세퍼레이트 체이닝), resize)
+    - hash function
+    - collision
+        - open addresing
+            - linear probing
+            - quadratic probing
+        - separate chaining
+            - double hashing
+    -   resize 
+- stack
+- queue
+    - circular queue
+    - dequeue
+- Graph vs Tree
+    - Graph
+        - directed
+        - undirected
+        - adjacency matrix
+        - adjacency list
+        - Graph Traversal: BFS, DFS
+    - Tree
+        - binary tree
+            - full binary tree
+            - complete binary tree
+        - bst(binary search tree)
+- heap(binary heap)
+    - min heap
+    - max heap
+- red-black tree(정의, 특징, 삽입, 삭제)
+- b+ tree & b- tree
+- Trie

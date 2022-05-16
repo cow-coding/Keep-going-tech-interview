@@ -8,5 +8,25 @@
   - Heap sort
   - Merge sort
   - Quick sort
+    - 현실에서 quick 소트를 merge보다 많이 쓰는 이유
   - Counting sort
   - Radix sort
+- Divide and Conquer
+- Dynamic Programming
+- Greedy Algorithm
+- Binary Heap
+- Shortest Path
+    - Dijkstra
+    - Floyd-Warshall
+    - Bellman-Ford
+    - A*
+- Minimum Spanning Tree
+    - Prim
+    - Kruskal
+- Union-find
+- Topological sort
+- 비트마스크(BitMask)
+- 최장증가수열(LIS)
+- 최소공통조상(LCA)
+- Fibonacci에서의 세 가지(Recursion, Dynamic Programming, 반복) 방식에 대한 시간복잡도와 공간복잡도 차이
+- Factorial for loop vs recursive vs 쪼개서 계산 vs multicore 에서의 작동
