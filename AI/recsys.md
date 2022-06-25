@@ -1,6 +1,6 @@
 # AI Interview - Recommender System
 
-- 추천 시스템에서 사용할 수 있는 거리는 무엇이 있을까요?
+- [추천 시스템에서 사용할 수 있는 거리는 무엇이 있을까요?](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/AI/recsys/1.%20distance.md)
 - User 베이스 추천 시스템과 Item 베이스 추천 시스템 중 단기간에 빠른 효율을 낼 수 있는 것은 무엇일까요?
 - 성능 평가를 위해 어떤 지표를 사용할까요?
 - Explicit Feedback과 Implicit Feedback은 무엇일까요? Impicit Feedback을 어떻게 Explicit하게 바꿀 수 있을까요?
