@@ -16,3 +16,4 @@
 - [NAVER boostcamp AITech 2nd interview question](https://github.com/sw6820/NAVER_boostcamp_AITech_2nd_interview_question)
 - [CES Summary](https://github.com/Prev/CSE-Summary)
 - [AI tech interview](https://github.com/boostcamp-ai-tech-4/ai-tech-interview)
+- [상위 29개 데이터 엔지니어 인터뷰 질문 및 답변](https://ko.myservername.com/top-29-data-engineer-interview-questions)
