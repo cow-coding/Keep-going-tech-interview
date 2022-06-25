@@ -1,7 +1,7 @@
 # CS Interview - Algorithm
 
-- 점근 표기법에 대해 간단하게 설명해주세요.
-- 정렬 알고리즘
+- [점근 표기법에 대해 간단하게 설명해주세요.](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Algorithm/1.%20Big%20notation.md)
+- [정렬 알고리즘](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Algorithm/2.%20sorting%20algorithm.md)
   - Bubble sort
   - Selection sort
   - Insertion sort
