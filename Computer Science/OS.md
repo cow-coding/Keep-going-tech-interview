@@ -3,7 +3,7 @@
 - [운영체제란 무엇인가요?](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Operating%20System/1.%20What%20is%20OS.md)
 - [프로세스와 쓰레드의 차이를 알려주세요.](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Operating%20System/2.%20Process%20VS%20Thread.md)
 - [멀티 프로세스 대신 멀티 쓰레드를 사용하는 이유를 설명해주세요.](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Operating%20System/3.%20Multi%20thread.md)
-- [사용자 수준 스레드와 커널 수준 스레드의 차이를 설명해주세요.](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Operating%20System/4.%20User%20VS%20Kernel%20thread.md)
+- [사용자 수준 스레드와 커널 수준 스레드의 차이를 설명해주세요.](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Operating%20System/4.%20User%20VS%20Kernel%20Thread.md)
 - [프로세스 주소공간이란 무엇인가요?](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Operating%20System/5.%20Process%20Address.md)
 - [Thread-safe에 대해 설명해주세요. (hint: critical section)](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Operating%20System/6.%20Thread%20Safe.md)
 - [인터럽트(Interrupt)에 대해 설명하세요.](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Operating%20System/7.%20Interrupt.md)
