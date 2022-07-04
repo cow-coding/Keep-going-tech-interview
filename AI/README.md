@@ -2,13 +2,13 @@
 
 ## 목록
 
-- [Statistics / Math]()
-- [Machine Learning]()
-- [Deep Learning]()
-- [Recommender System]()
-- [Computer Vision (CV)]()
-- [Natural Language Process (NLP)]()
-- [MLOps]()
+- [Statistics / Math](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/AI/stats-math.md)
+- [Machine Learning](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/AI/ml.md)
+- [Deep Learning](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/AI/dl.md)
+- [Recommender System](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/AI/recsys.md)
+- [Computer Vision (CV)](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/AI/cv.md)
+- [Natural Language Process (NLP)](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/AI/nlp.md)
+- [MLOps](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/AI/mlops.md)
 
 ## 레퍼런스
 
