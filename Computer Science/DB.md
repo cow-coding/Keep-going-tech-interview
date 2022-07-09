@@ -3,16 +3,14 @@
 - [데이터베이스를 사용하는 이유가 뭔가요?](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Database/1.%20Why%20use%20database.md)
 - [데이터베이스의 성능이란 무엇인가요?](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Database/2.%20Database%20performance.md)
 - [데이터 모델에 대해서 설명해주세요.](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Database/3.%20Data%20model.md)
-- Index
+- [Index](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Database/4.%20Index.md)
     - Index 란 무엇인가    
     - Primary index vs Secondary index
-    - Composite index
     - Index 의 성능과 고려해야할 사항
-    - Index 의 자료구조는 크게 Hash 인덱스와 B+Tree 인덱스가 있습니다. 이것은 무엇일까요?
     - 인덱스 Scan 방식은 무엇이 있나요?
     - 인덱스 설계시 NULL값은 고려되야 할까요?
-- 정규화
-    - 정규화 탄생 배경
+- [Index 의 자료구조는 크게 Hash 인덱스와 B+Tree 인덱스가 있습니다. 이것은 무엇일까요?](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Database/5.%20Index%20Structure.md)
+- [정규화](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Database/6.%20Normalization.md)
     - 정규화란 무엇인가
     - 정규화의 종류
     - 정규화의 장단점
