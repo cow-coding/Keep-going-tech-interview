@@ -15,12 +15,12 @@
     - 정규화의 종류
     - 정규화의 장단점
 - 트랜잭션(Transaction)이란 무엇인가?
-    - 트랜잭션과 Lock
     - 트랜잭션의 특성
+    - 트랜잭션과 Lock
     - 트랜잭션의 상태
-    - 트랜잭션을 사용할 때 주의할 점
-    - 트랜잭션 격리 수준(Transaction Isolation Level)
     - DBMS 는 어떻게 트랜잭션을 관리할까?
+- 트랜잭션 격리 수준(Transaction Isolation Level)
+  - 트랜잭션을 사용할 때 주의할 점
 - NoSQL
     - NoSQL vs RDBMS    
     - 저장방식에 따른 분류
