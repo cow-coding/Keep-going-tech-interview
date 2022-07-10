@@ -14,24 +14,30 @@
     - 정규화란 무엇인가
     - 정규화의 종류
     - 정규화의 장단점
-- 트랜잭션(Transaction)이란 무엇인가?
+- [트랜잭션(Transaction)이란 무엇인가?](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Database/7.%20Transaction.md)
     - 트랜잭션의 특성
     - 트랜잭션과 Lock
     - 트랜잭션의 상태
     - DBMS 는 어떻게 트랜잭션을 관리할까?
-- 트랜잭션 격리 수준(Transaction Isolation Level)
+- [트랜잭션 격리 수준(Transaction Isolation Level)](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Database/8.%20Transaction%20Level.md)
   - 트랜잭션을 사용할 때 주의할 점
-- NoSQL
-    - NoSQL vs RDBMS    
+- [NoSQL](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Database/9.%20NoSQL.md)
+    - NoSQL vs RDBMS  
     - 저장방식에 따른 분류
         - Key-Value Model
         - Document Model
         - Column Model
         - Graph Model
-    - CAP 이론
+    - 대표적으로 MongoDB가 있는데, 다른 NoSQL과 다른 점이 뭘까요?
+    - [CAP 이론](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Database/10.%20cap.md)
         - 일관성
         - 가용성
         - 네트워크 분할 허용성
+- 효과적인 쿼리 저장
+- 옵티마이저(Optimizer)란
+- Replication
+- 파티셔닝(Partitioning)
+- 샤딩(Sharding)
 - Key 종류
 - CRUD 
 - SQL Join
@@ -41,11 +47,6 @@
     - 설명
     - 발생 예시
 - Statement와 PrepareStatement
-- 효과적인 쿼리 저장
-- 옵티마이저(Optimizer)란
-- Replication
-- 파티셔닝(Partitioning)
-- 샤딩(Sharding)
 - 객체 관계 매핑(Object-relational mapping, ORM)이란
 - java JDBC
 - Redis
