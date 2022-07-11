@@ -33,10 +33,9 @@
     - 일관성
     - 가용성
     - 네트워크 분할 허용성
-- 데이터 수집 과정에서 장애 발생시 대처 방법
-- Redis
+- [Redis](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Database/11.%20Redis.md)
   - Redis에 장애가 발생할 경우 데이터 복구 방법
-  - Redis와 비슷한 기술
+  - [Redis와 비슷한 기술](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Database/12.%20Broker.md)
     - Kafka
     - RabbitMQ
 - 효과적인 쿼리 저장
@@ -55,7 +54,6 @@
 - Statement와 PrepareStatement
 - 객체 관계 매핑(Object-relational mapping, ORM)이란
 - java JDBC
-- Redis
 - PostgreSQL의 장점은 무엇일까요?
   - postgreSQL vs Elastic Search
 - Nested Loop 조인은 무엇일까요?
