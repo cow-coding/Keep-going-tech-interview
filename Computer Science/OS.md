@@ -14,17 +14,16 @@
 - [뮤텍스와 세마포어의 차이를 설명해주세요.](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Operating%20System/10.%20Mutex%20and%20Semaphore.md)
 - [스케줄러가 무엇이고, 단기/중기/장기로 나누는 기준에 대해 설명해주세요.](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Operating%20System/11.%20Scheduler.md)
 - [CPU 스케줄러인 FCFS, SJF, SRTF, Priority Scheduling, RR에 대해 간략히 설명해주세요.](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Operating%20System/12.%20Scheduling.md)
-- 동기와 비동기의 차이를 설명해주세요.
-- 메모리(Memory)란 무엇인가요?
-- 메모리 관리 전략에는 무엇이 있는지 간략히 설명해주세요.
+- [동기와 비동기의 차이를 설명해주세요.](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Operating%20System/13.%20Sync.md)
+- [메모리 관리 전략에는 무엇이 있는지 간략히 설명해주세요.](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Operating%20System/14.%20memory.md)
 - 페이징 & 세그멘테이션(PDF)에 대해 설명해주세요.
 - 페이지 교체 알고리즘의 종류에는 무엇이 있나요?
 - 페이지 폴트란 무엇인가요?
-- 가상 메모리에 대해 설명해주세요.
+- [가상 메모리에 대해 설명해주세요.](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Operating%20System/15.%20virtual%20memory.md)
     - 배경
     - 가상메모리 하는 일
     - Demanding Paging(요구 페이징)
-- 교착상태(데드락, Deadlock)의 개념과 조건을 설명해주세요.
+- [교착상태(데드락, Deadlock)의 개념과 조건을 설명해주세요.](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Operating%20System/16.%20.deadlock.md)
 - Race Condition이란 무엇인가요?
 - 외부 단편화와 내부 단편화에 대해 설명해주세요.
 - PCB에 대해 설명해주세요.
