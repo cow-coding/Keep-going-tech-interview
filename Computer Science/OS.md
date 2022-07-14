@@ -23,7 +23,7 @@
     - 배경
     - 가상메모리 하는 일
     - Demanding Paging(요구 페이징)
-- [교착상태(데드락, Deadlock)의 개념과 조건을 설명해주세요.](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Operating%20System/16.%20.deadlock.md)
+- [교착상태(데드락, Deadlock)의 개념과 조건을 설명해주세요.](https://github.com/cow-coding/Keep-going-tech-interview/blob/main/Computer%20Science/Operating%20System/16.%20deadlock.md)
 - Race Condition이란 무엇인가요?
 - 외부 단편화와 내부 단편화에 대해 설명해주세요.
 - PCB에 대해 설명해주세요.
